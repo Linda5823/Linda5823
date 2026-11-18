@@ -37,8 +37,8 @@ I use AI coding tools such as Claude Code, Cursor, and GitHub Copilot to acceler
 ## 🚀 Production Experience
 
 Contributed to AI-powered mobile and web applications at TinyTalk.ai, including Flutter-based story generation and frontend AI watercolor rendering systems.
-
 CostSegDIY — Full-stack SaaS for real estate cost segregation workflows, including authentication, payments, SQL-backed data, and automated PDF reports.
+
 ---
 
 ## 📱 Featured Projects
