@@ -1,35 +1,44 @@
 # 👋 Hi, I'm Guiling (Linda)
 
-**Android & Frontend Software Engineer**
+**Full-Stack Software Engineer | AI-Assisted Product Development**
 Ph.D. in Physics | M.S. Computer Science 
 
-I build reliable mobile and web applications with a focus on clean architecture, predictable state management, and scalable client-side systems.
+I build and ship practical software products, from mobile applications to full-stack SaaS platforms and AI-powered experiences.
+
+My work spans React/Next.js, TypeScript, Python/FastAPI, SQL, and cloud deployment. I enjoy turning real-world problems into reliable, usable products, investigating complex bugs, and improving systems through thoughtful engineering.
+
+I use AI coding tools such as Claude Code, Cursor, and GitHub Copilot to accelerate development while taking responsibility for code quality, testing, and maintainability.
 
 ---
 
 ## 🔧 Tech Stack
 
-**Mobile**
-- Kotlin · Jetpack Compose · Android SDK
-- Coroutines · Room · Retrofit
-- Flutter · Dart
+**Languages & Frameworks**
+- TypeScript · JavaScript · Python · Kotlin · Dart
+- React · Next.js · FastAPI · Flask
+- Flutter · Jetpack Compose
 
-**Frontend**
-- React · JavaScript (ES6)
-- HTML5 · CSS3 · Tailwind
+**Backend & Data**
+- REST APIs · Authentication · Webhooks
+- PostgreSQL · SQL · Firebase
+- Stripe Integration
 
-**Architecture & Systems**
-- MVVM
-- Offline-first design
-- RESTful API integration
-- Modular frontend architecture
+**Cloud & Development**
+- Cloudflare Workers · Cloudflare Pages
+- Docker · Git · GitHub
+- Google Cloud Platform
 
+**AI & Developer Tools**
+- Claude Code · Cursor · GitHub Copilot· Codex
+- OpenAI API · Gemini API
+- AI-assisted development · Code review · Debugging
 ---
 
 ## 🚀 Production Experience
 
 Contributed to AI-powered mobile and web applications at TinyTalk.ai, including Flutter-based story generation and frontend AI watercolor rendering systems.
 
+CostSegDIY — Full-stack SaaS for real estate cost segregation workflows, including authentication, payments, SQL-backed data, and automated PDF reports.
 ---
 
 ## 📱 Featured Projects
